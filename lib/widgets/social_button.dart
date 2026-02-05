@@ -19,10 +19,10 @@ class SocialButton extends StatelessWidget {
       icon: Icon(icon, size: 18),
       label: Text(label),
       style: ElevatedButton.styleFrom(
-        foregroundColor: const Color(0xFF64ffda),
+        foregroundColor: const Color(0xFF569CD6),
         backgroundColor: Colors.transparent,
         shadowColor: Colors.transparent,
-        side: const BorderSide(color: Color(0xFF64ffda)),
+        side: const BorderSide(color: Color(0xFF569CD6)),
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(4),
         ),

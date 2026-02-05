@@ -11,7 +11,7 @@ class AboutScreen extends StatelessWidget {
         backgroundColor: Colors.transparent,
         elevation: 0,
         leading: IconButton(
-          icon: const Icon(Icons.arrow_back, color: Color(0xFF64ffda)),
+          icon: const Icon(Icons.arrow_back, color: Color(0xFF569CD6)),
           onPressed: () => Navigator.of(context).pop(),
         ),
       ),
@@ -98,8 +98,8 @@ class _SkillChip extends StatelessWidget {
     return Chip(
       label: Text(label),
       backgroundColor: Colors.transparent,
-      side: const BorderSide(color: Color(0xFF64ffda)),
-      labelStyle: const TextStyle(color: Color(0xFF64ffda)),
+      side: const BorderSide(color: Color(0xFF569CD6)),
+      labelStyle: const TextStyle(color: Color(0xFF569CD6)),
     );
   }
 }

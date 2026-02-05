@@ -18,7 +18,7 @@ class MyPortfolioApp extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true,
         colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFF64ffda), // A nice teal/green accent
+          seedColor: const Color(0xFF569CD6), // A nice teal/green accent
           brightness: Brightness.dark,
           surface: const Color(0xFF0a192f), // Dark navy background
         ),
