@@ -110,9 +110,22 @@ Detailed information including:
 - **Material Design 3**: Modern, clean aesthetics with consistent spacing
 - **Accessibility**: Proper contrast ratios and readable font sizes
 
-## 📄 License
+## 📄 License & Privacy
 
 This project is private and not intended for public distribution.
+
+### Privacy Policy
+
+- **English**: [privacy-policy.html](privacy-policy.html)
+- **Español**: [privacy-policy-es.html](privacy-policy-es.html)
+- **Setup Guide**: [PRIVACY_POLICY_SETUP.md](PRIVACY_POLICY_SETUP.md)
+
+The application complies with:
+- Google Play Store Developer Program Policies
+- GDPR (EU)
+- CCPA (California)
+- LGPD (Brazil)
+- Mexican Data Protection Laws
 
 ## 🔗 Resources
 
